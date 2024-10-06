@@ -1,16 +1,16 @@
-Operational excellence:
+# Operational excellence:
 
 At Amazon, we define operational excellence as a commitment to build software correctly while consistently delivering a great customer experience. It contains best practices for organizing your team, designing your workload, operating it at scale, and evolving it over time.
 Operational excellence helps your team to focus more of their time on building new features that benefit customers, and less time on maintenance and firefighting.
 
 The following are the design principles for operational excellence in the cloud:
-o	Perform operations as code:
-o	Make frequent, small, reversible changes: 
-o	Refine operations procedures frequently:
-o	Anticipate failure: 
-o	Learn from all operational failures: 
-o	Use managed services: 
-o	Implement observability for actionable insights: 
+        o	Perform operations as code:
+        o	Make frequent, small, reversible changes: 
+        o	Refine operations procedures frequently:
+        o	Anticipate failure: 
+        o	Learn from all operational failures: 
+        o	Use managed services: 
+        o	Implement observability for actionable insights: 
 
 There are four best practice areas for operational excellence in the cloud:
 1)	Organization: 
